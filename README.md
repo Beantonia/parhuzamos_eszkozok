@@ -50,3 +50,10 @@ This C# program showcases parallel sorting using the Bubble Sort algorithm on a 
 - Cloo library: https://github.com/clSharp/cloo
 - OpenCL: https://www.khronos.org/opencl/
 
+## Results
+### CPU:
+
+### GPU:
+
+## Conclusion
+
