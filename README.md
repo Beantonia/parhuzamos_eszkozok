@@ -11,7 +11,7 @@ This C# program demonstrates parallel bubble sort algorithm along with a program
 
 #### Requirements:
 - .NET Framework or .NET Core SDK installed on your machine.
-- 
+
 #### Setup:
 - Step 1:  Clone this repository to your local machine using Git.
 - Step 2:  Navigate to the directory containing the Program.cs file and compile the code using the C# compiler. Then run the compiled executable.
