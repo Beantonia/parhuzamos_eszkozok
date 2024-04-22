@@ -50,7 +50,7 @@ This C# program showcases parallel sorting using the Bubble Sort algorithm on a 
 
 ## Results
 ### CPU:
-![CPU results](https://github.com/Beantonia/parhuzamos_eszkozok/blob/main/parallel_bubble_sorting_CPU/CPU_restults.png)
+![CPU results](https://github.com/Beantonia/parhuzamos_eszkozok/blob/main/parallel_bubble_sorting_CPU/CPU_results.png)
 
 ### GPU:
 ![GPU results](https://github.com/Beantonia/parhuzamos_eszkozok/blob/main/parallel_bubble_sorting_GPU/GPU_results.png)
