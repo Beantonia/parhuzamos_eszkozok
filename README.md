@@ -59,4 +59,4 @@ This C# program showcases parallel sorting using the Bubble Sort algorithm on a 
 ![Plot](https://github.com/Beantonia/parhuzamos_eszkozok/blob/main/plot_CPU_GPU.png)
 
 ## Conclusion
-Based on the results observed, it can be concluded that the GPU-based solution is more favorable than the CPU-based one.
+As the plot demonstrates, the program's runtime is not linear. From this, we can conclude that for sorting arrays with fewer than 80,000 elements, using a GPU is more efficient. However, for arrays with more than 80,000 elements, a CPU becomes the better option. A CPU-based solution results in an average of 3.25 times the runtime when the array size is doubled, while a GPU-based solution results in an average of 4.11 times the runtime. 
