@@ -55,5 +55,8 @@ This C# program showcases parallel sorting using the Bubble Sort algorithm on a 
 ### GPU:
 ![GPU results](https://github.com/Beantonia/parhuzamos_eszkozok/blob/main/GPU/GPU_results.png)
 
+### Plot to compare:
+![Plot](https://github.com/Beantonia/parhuzamos_eszkozok/blob/main/plot_CPU_GPU.png)
+
 ## Conclusion
 Based on the results observed, it can be concluded that the GPU-based solution is more favorable than the CPU-based one.
